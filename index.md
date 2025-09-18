@@ -74,3 +74,10 @@ layout: default
 
 　　最后说个不常被提及的细节：牙买加人非常乐于助人。如果你在设置手机时遇到困难，大胆、礼貌地向旁边的当地人求助，他们很可能热情地帮你搞定，这甚至会成为你旅行中一个温暖的小插曲。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Jamaica eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/jamaica-data-plans)
